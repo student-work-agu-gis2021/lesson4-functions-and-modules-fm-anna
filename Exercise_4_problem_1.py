@@ -20,6 +20,12 @@
 
 # YOUR CODE HERE
 def fahr_to_celsius(temp_fahrenheit):
+  """converts the input temperature from degrees Fahrenheit to degrees Celsius
+ 
+  parameter:temp_fahrenheit
+  return:converted_temp
+  """
+
   converted_temp = (temp_fahrenheit-32)/1.8
   return converted_temp
 
