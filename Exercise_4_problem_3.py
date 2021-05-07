@@ -66,6 +66,7 @@ temp_data =  [19, 21, 21, 21, 23, 23, 23, 21, 19, 21, 19, 21, 23, 27, 27, 28, 30
 #         3. Add the `temp_class` value to the `temp_classes` list
 
 
+
 # YOUR CODE HERE
 from temp_functions import fahr_to_celsius,temp_classifier
 
