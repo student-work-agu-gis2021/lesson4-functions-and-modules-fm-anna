@@ -47,8 +47,8 @@ print(fahr_to_celsius(71))
 
 # YOUR ANSWER HERE. Write your answers as comments
 #
-#
-#
+#1.Yes.
+#2.It can reduce code duplication.
 #
 
 # #### Done!
